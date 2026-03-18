@@ -1,0 +1,15 @@
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/bin/Debug/net10.0/HabitTracker
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/bin/Debug/net10.0/HabitTracker.deps.json
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/bin/Debug/net10.0/HabitTracker.runtimeconfig.json
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/bin/Debug/net10.0/HabitTracker.dll
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/bin/Debug/net10.0/HabitTracker.pdb
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.AssemblyInfoInputs.cache
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.AssemblyInfo.cs
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.csproj.CoreCompileInputs.cache
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.sourcelink.json
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.dll
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/refint/HabitTracker.dll
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.pdb
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/HabitTracker.genruntimeconfig.cache
+/workspaces/personal-habit-tracker/PersonalHabitTracker/HabitTracker/obj/Debug/net10.0/ref/HabitTracker.dll

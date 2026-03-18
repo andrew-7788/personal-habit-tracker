@@ -1,0 +1,2 @@
+reminderId|habitId|timeOfDay|isEnabled
+1|1|2026-03-16T14:31:00.0000000+00:00|True

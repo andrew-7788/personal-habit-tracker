@@ -1,0 +1,3 @@
+habitId|frequencyType|targetPerPeriod
+1|daily|1
+2|daily|1
