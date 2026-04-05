@@ -1,0 +1,7 @@
+habitId|username|name|isActive|createdOn
+1|report_user_6859833d8ede4ba5ac20ab6f286cfb96|ReportHabit_d9e3c6fe98ea4a3097f8544f7cdef7cd|True|2026-04-05T23:11:41.5295372+00:00
+2|report_user_4fc108c5bfae4f78a58505fa95b11b0a|ReportHabit_a20eef9a440d464ba13a609c082aff38|True|2026-04-05T23:11:41.5543787+00:00
+3|report_user_7a9f74dac8c54c088060cad5dc2821de|ReportHabit_2d68407e18c34bda99637d1c10faca15|True|2026-04-05T23:18:49.4089879+00:00
+4|David|Read_Test_1|True|2026-04-05T23:18:49.4260760+00:00
+5|report_user_9105172d142b4f34b3fcb2bbbdfac956|ReportHabit_e6e53219c9434db492e329acc9c4ad30|True|2026-04-05T23:18:49.4353140+00:00
+6|report_user_49e843ad592e4a8b84e6c38df1ad23e9|ReportHabit_18fcdb4cd0914bd3b70df1765eb1ed0e|True|2026-04-05T23:19:46.5357800+00:00
